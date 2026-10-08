@@ -1,3 +1,4 @@
+#注意 本文件全程由ai设计编写
 # solidworks-mcp
 
 本地 MCP 服务器，把 Reasonix（或任意 MCP 客户端）接入本机 SolidWorks，实现 AI 辅助工程作图：参数化零件建模、2D 工程图出图、装配体、批量改参导出。
