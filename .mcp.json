@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "solidworks": {
+      "command": "<venv-python>",
+      "args": ["-m", "solidworks_mcp.server"]
+    }
+  }
+}

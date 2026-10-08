@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environment
+.venv/
+venv/
+
+# win32com early-binding cache (generated at runtime)
+gen_py/
+
+# SolidWorks / generated artifacts
+*.sldprt
+*.sldasm
+*.slddrw
+*.step
+*.stp
+*.pdf
+*.dwg
+*.dxf
+*.bmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
